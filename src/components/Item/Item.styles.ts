@@ -25,6 +25,6 @@ export const Wrapper = styled.div`
     justify-content: space-between;
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 1rem;
+    padding: 0.5rem;
   }
 `;
